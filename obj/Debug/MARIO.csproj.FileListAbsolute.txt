@@ -1,0 +1,28 @@
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\bin\Debug\mscorlib.dll
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\bin\Debug\normidna.nlp
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\bin\Debug\normnfc.nlp
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\bin\Debug\normnfd.nlp
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\bin\Debug\normnfkc.nlp
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\bin\Debug\normnfkd.nlp
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\obj\Debug\MARIO.csprojResolveAssemblyReference.cache
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\obj\Debug\MARIO.csproj.GenerateResource.Cache
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lunaluc\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\obj\Debug\MARIO.csproj.AssemblyReference.cache
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\obj\Debug\MARIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\obj\Debug\MARIO.csproj.GenerateResource.cache
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\obj\Debug\MARIO.csproj.CoreCompileInputs.cache
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lunap\OneDrive\Desktop\WindowsFormsApp1 - Copy\obj\Debug\WindowsFormsApp1.pdb
